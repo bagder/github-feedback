@@ -9,6 +9,7 @@ runnning a project like [curl](https://github.com/curl/curl) easier.
 - [Commit emails with diffs](commit-mail-diff.md)
 - [Count contributors properly](count-contributors.md)
 - [Disable the merge button](disable-merge-button.md)
+- [Disable the default tarballs for releases](releases-tarball.md)
 - [Hide security issues](security-issues.md)
 - [Kill off CI jobs](kill-ci.md)
 - [Larger list of CI jobs](larger-ci-list.md)
