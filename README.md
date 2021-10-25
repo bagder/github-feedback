@@ -7,7 +7,7 @@ runnning a project like [curl](https://github.com/curl/curl) easier.
 
 - [Better support for PR-by-proxy](pr-by-proxy.md)
 - [Commit emails with diffs](commit-mail-diff.md)
-- [Count contributors properly](count-contributors.md)
+- [Count all contributors](count-contributors.md)
 - [Disable the merge button](disable-merge-button.md)
 - [Disable the default tarballs for releases](releases-tarball.md)
 - [Hide security issues](security-issues.md)
