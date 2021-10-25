@@ -1,7 +1,7 @@
 # GitHub feedback
 
 Proposed changes and improvements for GitHub that would make driving and
-runnning a project like [curl](/curl/curl) easier.
+runnning a project like [curl](https://github.com/curl/curl) easier.
 
 ## Listed in A-Z order
 
