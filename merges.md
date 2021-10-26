@@ -7,3 +7,5 @@ This has recently caused some friction when working with hacktoberfest, who won'
 ## Official feedback link
 
 [Marking pull requests as merged](https://github.com/github/feedback/discussions/6414)
+
+The oldest request found for this feature is from [June 2013 on isaacs/github](https://github.com/isaacs/github/issues/2).
