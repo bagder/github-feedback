@@ -6,6 +6,7 @@ runnning a project like [curl](https://github.com/curl/curl) easier.
 ## GitHub service
 
 - [Count all contributors](count-contributors.md)
+- [Respect .mailmap](mailmap.md)
 
 ## Releases
 
