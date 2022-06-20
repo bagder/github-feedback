@@ -7,7 +7,7 @@ This has recently caused some friction when working with hacktoberfest, who won'
 ## Pull Shark badge
 
 As a direct result of GitHub not being able to properly track or understand
-merges that are done outside of GitHub's own tooling, new fancy things such as the achivement badges experimented with ("beta" status) during summer of 2022 with its **Pull Shark** gets wrong.
+merges that are done outside of GitHub's own tooling, new fancy things such as the achivement badges experimented with ("beta" status) during summer of 2022 with its **Pull Shark** gets it wrong too.
 
 The **Pull Shark** badge supposedly shows a `x2`, `x3`, `x4` etc label on the little icon depending on the number of merged pull requests you have had registered in total.
 
