@@ -1,0 +1,3 @@
+# Allow voting on whether or not to merge pull requests by people with a special "voting" permission
+
+Some people might want to run their repositories via democracy. GitHub should help make this possible by allowing repo owners to allow voting on pull requests within it, which would then get merged (or not) depending on whether the PR reaches a certain threshold of votes among people voting on it. This could be restricted to just users with a special "voting" permission within the organization running the repository, to prevent drive-by interference and canvassing of members outside of the community.

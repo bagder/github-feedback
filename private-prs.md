@@ -1,0 +1,3 @@
+# Allow marking pull requests as private even in public repositories (they'd become public once merged)
+
+I think GitHub might actually be working on something like this with their new private vulnerability reporting feature; we'll see what that's like once it gets out of beta...
