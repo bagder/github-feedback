@@ -21,7 +21,7 @@ runnning a project like [curl](https://github.com/curl/curl) easier.
 ## Issues
 
 - [Hide security issues](security-issues.md)
-- Allow assigning groups of people (e.g. a committee, working group, etc.) as assignees for issues, rather than just individual accounts
+- [Allow assigning groups of people (e.g. a committee, working group, etc.) as assignees for issues, rather than just individual accounts](org-assignments.md)
 
 ## Pull Requests
 
@@ -29,8 +29,9 @@ runnning a project like [curl](https://github.com/curl/curl) easier.
 - [Better support for PR-by-proxy](pr-by-proxy.md)
 - [Mark conflicting PRs in the list](mark-conflicting.md)
 - [Review commit messages](review-commit-msgs.md)
-- Allow marking pull requests as private even in public repositories (they'd become public once merged)
-- Allow voting on whether or not to merge pull requests by people with a special "voting" permission
+- [Allow marking pull requests as private even in public repositories, which would then become public once merged](private-prs.md)
+- [Allow voting on whether or not to merge pull requests by people with a special "voting" permission](voting.md)
+- [More review options besides "Approve" and "Request Changes"](review-options.md)
 
 ## git integration
 
