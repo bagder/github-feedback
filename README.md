@@ -17,6 +17,7 @@ runnning a project like [curl](https://github.com/curl/curl) easier.
 - [Kill off CI jobs](kill-ci.md)
 - [Larger list of CI jobs](larger-ci-list.md)
 - [Mark specific CI builds flaky](flaky.md)
+- [Mark specific users as suspicious](suspicious.md)
 
 ## Issues
 
